@@ -1,0 +1,36 @@
+{
+  "id": "/",
+  "name": "Dina Glamour — Nails & Lashes Studio",
+  "short_name": "Dina Glamour",
+  "description": "Browse nails and lashes services and request an appointment with Dina Glamour.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#15090e",
+  "theme_color": "#15090e",
+  "categories": [
+    "lifestyle",
+    "beauty"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
